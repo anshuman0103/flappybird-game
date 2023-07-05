@@ -1,1 +1,1 @@
-# flappybird-game
+Flappy bird game is a game made using the pygame module of python. To make this game a person needs to have atleast basic knowledge of python. This game is very similar to the flappy bird game that we played in video games in our childhood
